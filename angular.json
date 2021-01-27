@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "bankingappui"
+  "defaultProject": "bankingappui",
+  "cli": {
+    "analytics": false
+  }
 }
